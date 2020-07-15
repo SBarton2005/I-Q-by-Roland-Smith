@@ -1,5 +1,36 @@
+body{
+  background-color:grey;
+}
 h1{
   color:indigo;
   font-size:40;
   text-align:center;
+}
+h2{
+  color:blueviolet;
+  font-size:35;
+  text-align:center;
+}
+h3{
+  color:cornflowerblue;
+  font-size:30;
+  text-align:center;
+}
+h4{
+  color:cadetblue;
+  font-size:25;
+  text-align:center;
+}
+p{
+  color:aquamarine;
+  font-size:18;
+  text-align: center;
+}
+li{
+  color:aqua;
+  font-size:18;
+  text-align:left;
+}
+a{
+  color:darkseagreen;
 }
